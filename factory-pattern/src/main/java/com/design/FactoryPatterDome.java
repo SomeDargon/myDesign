@@ -12,5 +12,7 @@ public class FactoryPatterDome {
         square.draw();
         Shape circle = s.getShape("circle");
         circle.draw();
+        Shape sf = s.getClassShape(Circle.class);
+        sf.draw();
     }
 }
