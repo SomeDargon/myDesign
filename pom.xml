@@ -12,8 +12,9 @@
         <module>factory-pattern</module>
         <module>abstract-factory-pattern</module>
         <module>single</module>
-        <module>builderPattern</module>
         <module>prototype-pattern</module>
+        <module>builder-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
 
 
