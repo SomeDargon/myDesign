@@ -15,6 +15,7 @@
         <module>prototype-pattern</module>
         <module>builder-pattern</module>
         <module>strategy-pattern</module>
+        <module>observer-pattern</module>
     </modules>
 
 
